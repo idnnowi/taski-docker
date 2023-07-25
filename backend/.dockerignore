@@ -1,0 +1,13 @@
+# Git
+.git
+
+# DB
+db.sqlite3
+
+# IDEs
+.idea
+.vscode
+
+# Environments
+venv
+.env
